@@ -1,9 +1,10 @@
 package gitdemo_a;
 
-public class sample3 {
+public class sample4 {
 
 	public static void main(String[] args) {
-		System.out.println("sample3 only");
+		System.out.println("sample4 only");
+
 	}
 
 }
